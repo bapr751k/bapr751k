@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @bapr751k
 - 👀 I’m interested in ...JS, HTM, CSS, Python
 - 🌱 I’m currently learning ...NodeJS, MongoDB, PosgreSQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on ...developments web
+- 📫 How to reach me ...bapr751k@gmail.com
+- 😄 Pronouns: ...Xelor
+- ⚡ Fun fact: ...49 old
 
 <!---
 bapr751k/bapr751k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
