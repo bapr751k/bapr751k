@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bapr751k
-- 👀 I’m interested in ...JS, HTM, CSS, Python
-- 🌱 I’m currently learning ...NodeJS, MongoDB, PosgreSQL
+- 👀 I’m interested in ...JS, HTM, CSS, React, Python
+- 🌱 I’m currently learning ...NodeJS, MongoDB, PosgreSQL, AWS and Google Cloud
 - 💞️ I’m looking to collaborate on ...developments web
 - 📫 How to reach me ...bapr751k@gmail.com
 - 😄 Pronouns: ...Xelor
